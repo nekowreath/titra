@@ -1,0 +1,25 @@
+Filename      = kyn453_proton-18-4.jdf
+Author        = delta
+Sample_Id     = kyn453
+Creation_Time =  8-SEP-2018 16:19:27
+Revision_Time = 25-SEP-2018 13:22:35
+
+----------------------------------------------------------------------
+
+Peaks List
+Filename     = kyn453_proton-18-4.jdf
+Path         = C:\Users\miyaji-lab\Desktop\ky\data\kyn nmr\kyn453\
+
+Current Time = 25-SEP-2018 13:22:35
+Revised at   = 25-SEP-2018 13:22:35
+Created at   =  8-SEP-2018 16:19:27
+Sample ID    = kyn453
+Comment      = a1.2eq
+Solvent      = ACETONITRILE-D3
+Experiment   = proton.jxp
+
+X Title      = Proton
+
+Pos X,Pos X,Integral,Intensity
+  10.6060[ppm],   4.2401[kHz],   2.6537[abn],   0.0909[abn]
+   8.4296[ppm],   3.3700[kHz],   1.6437[abn],   0.1339[abn]
